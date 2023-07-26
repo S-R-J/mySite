@@ -570,7 +570,7 @@ footer .text span a:hover{
 @media screen and (max-width: 800px) {
   .imgg {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-    height: 300px;
+    height: 350px;
     margin-bottom: 10vw;
   }
 
@@ -598,18 +598,22 @@ footer .text span a:hover{
   }
 
   .home .text-one{
-    font-size: 25px;
+    font-size: 20px;
   }
   .home .text-two{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
   }
   .home .text-three{
-    font-size: 25px;
+    font-size: 20px;
   }
   .home .text-four{
     font-size: 18px;
   }
+
+
+
+
 
 
 }
