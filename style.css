@@ -570,8 +570,9 @@ footer .text span a:hover{
 @media screen and (max-width: 800px) {
   .imgg {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-    height: 350px;
+    height: 400px;
     margin-bottom: 10vw;
+    margin-top: -45vw;
   }
 
 
