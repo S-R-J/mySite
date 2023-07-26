@@ -571,8 +571,8 @@ footer .text span a:hover{
   .imgg {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     height: 400px;
-    margin-bottom: 10vw;
-    margin-top: -45vw;
+    margin-bottom: 8vw;
+    margin-top: -40vw;
   }
 
 
